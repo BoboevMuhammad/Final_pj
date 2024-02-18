@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.renderWhitespace": "selection",
+  "editor.wordWrap": "on",
+  "editor.autoSurround": "languageDefined",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.definitionLinkOpensInPeek": true,
+  "editor.experimental.pasteActions.enabled": true,
+  "editor.foldingImportsByDefault": true
+}
